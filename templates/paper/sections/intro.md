@@ -4,7 +4,7 @@ graves. Los bebés con esta condición nacen sin el encéfalo y el cerebelo, as�
 como sin el casquete del cráneo. A pesar de esto, los bebés pueden realizar
 actividades automáticas, tales como respirar; sin embargo, no son conscientes y
 no pueden pensar. La mayoría de estos bebés no nacen y, si lo hacen, tienen una
-vida muy corta.
+vida muy corta.\n
 Los padres de Theresa decidieron que lo mejor era donar los órganos de su hija
 para que otros bebés pudieran beneficiarse de estos. Esta acción no se pudo
 realizar porque las leyes de Florida prohíben tomar órganos hasta que el donante
