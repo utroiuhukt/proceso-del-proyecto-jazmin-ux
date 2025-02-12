@@ -1,5 +1,5 @@
 # El Caso de la Bebé Theresa
-## La bebé Theresa nació con anencefalia, uno de los defectos congénitos más
+La bebé Theresa nació con anencefalia, uno de los defectos congénitos más
 graves. Los bebés con esta condición nacen sin el encéfalo y el cerebelo, así
 como sin el casquete del cráneo. A pesar de esto, los bebés pueden realizar
 actividades automáticas, tales como respirar; sin embargo, no son conscientes y
